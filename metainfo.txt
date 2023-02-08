@@ -1,8 +1,9 @@
-Name of QuantLet: network_CC_exchanges
+Name of QuantLet: network_BTC_exchanges
 
-Description: Which exchange counts in crypto market? A high-frequency dynamic network perspective
+Description: Figures and Codes for "Cross-exchange Crypto Risk: A High-frequency Dynamic Network
+Perspective"
 
-Keywords: network analysis, high-frequency, crpyto, HAR
+Keywords: Partial correlation network, high-frequency data, Bitcoin exchanges, FTX, risk spillover
 
 Author: Yifu Wang
 
