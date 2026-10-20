@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: network_BTC_exchanges
 
-Description: Figures and Codes for "Cross-exchange Crypto Risk: A High-frequency Dynamic Network
+Description: Figures and Codes for "Cross-exchange Crypto Risk: A High-frequency Dynamic Network Perspective"
 
 Keywords: Partial correlation network, high-frequency data, Bitcoin exchanges, FTX, risk spillover
 
